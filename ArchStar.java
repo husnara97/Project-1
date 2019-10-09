@@ -1,6 +1,6 @@
 package ArchStar;
 public class ArchStar{
-	public static void main(String args[])
+	public static void main (String args[])
 	{
 		System.out.println("Welcome to ArchStar");
 	}
